@@ -1,9 +1,9 @@
-=== Indian Currency Rupee Symbol for Woocommerce ===
+=== Indian Rupee Symbol for Woocommerce ===
 Contributors: Bhavin Suvaliya
-Tags: WooCommerce, Currency, INR Symbol, Indian Currency, Font Awesome
+Tags: WooCommerce, Rupee Symbol, Indian Currency, Font Awesome
 Requires at least: 4.1
-Tested up to: 4.9.8
-Stable tag: 4.9.8
+Tested up to: 5.0.2
+Stable tag: 5.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

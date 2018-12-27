@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name: Indian Currency (Rupee) Symbol for Woocommerce
- * Plugin URI: https://bhavinsuvaliya.wordpress.com/
- * Description: Woocommerce Indian Currency (INR) Symbol display rupee symbol on INR currency using font awesome
+ * Plugin Name: Indian Rupee Symbol for Woocommerce
+ * Plugin URI: 
+ * Description: Woocommerce Indian Currency (Rupee) Symbol display rupee symbol on INR currency using font awesome
  * Version: 1.0.1
  * Author: Bhavin Suvaliya
  * Author URI: https://bhavinsuvaliya.wordpress.com/
- * Text Domain: woocommerce-inr-symbol
+ * Text Domain: woocommerce-rupee-symbol
  * Domain Path: /languages/
  *
  * @author Bhavin Suvaliya
- * @package Indian Currency (Rupee) Symbol for Woocommerce
+ * @package Indian Rupee Symbol for Woocommerce
  * @version 1.0.0
  */
 
