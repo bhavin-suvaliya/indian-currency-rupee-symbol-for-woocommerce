@@ -1,9 +1,11 @@
 === Indian Rupee Symbol for Woocommerce ===
-Contributors: Bhavin Suvaliya
+Contributors: suvaliya
+Donate link: https://bhavinsuvaliya.wordpress.com/
 Tags: WooCommerce, Rupee Symbol, Indian Currency, Font Awesome
 Requires at least: 4.1
-Tested up to: 5.0.2
-Stable tag: 5.0.2
+Requires PHP: 5.2.4
+Tested up to: 5.0.3
+Stable tag: 5.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,8 +29,10 @@ No you don't have to make any changes in template files. Just install and activa
 3. /assets/screenshot-3.png
 
 == Changelog ==
-== 1.0.1 ==
-Updated compatibilty status
-
 = 1.0.0 =
 Plugin update
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+* WordPress 5.0.3
