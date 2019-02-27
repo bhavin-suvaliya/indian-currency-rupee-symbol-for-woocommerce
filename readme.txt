@@ -1,18 +1,18 @@
-=== Indian Rupee Symbol for Woocommerce ===
+=== Indian Rupee icon for Woocommerce ===
 Contributors: suvaliya
 Donate link: https://bhavinsuvaliya.wordpress.com/
-Tags: WooCommerce, Rupee Symbol, Indian Currency, Font Awesome
+Tags: WooCommerce, Rupee icon, Indian Currency, Font Awesome
 Requires at least: 4.1
 Requires PHP: 5.2.4
-Tested up to: 5.0.3
-Stable tag: 5.0.3
+Tested up to: 5.1
+Stable tag: 5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will show you the new INR currency rupee symbol while using INR currency in WooCommerce.
+This plugin will show you the new INR currency rupee icon while using INR currency in WooCommerce.
 
 == Description ==
-This plugin is fontawesome based  Indian Rupee symbol for stores using Indian Currency (INR). Simply install and activate this plugin and select the INR as currency on the Woocommerce -> Settings -> General tab under Currency Options.
+This plugin is fontawesome based  Indian Rupee indian-rupee-icon-for-woocommerce for stores using Indian Currency (INR). Simply install and activate this plugin and select the INR as currency on the Woocommerce -> Settings -> General tab under Currency Options.
 
 == Installation == 
 1. Upload the plugin files in the '/wp-content/plugins/plugin-name' directory, or directly install the plugin via the plugin screen.
@@ -35,4 +35,4 @@ Plugin update
 == Upgrade Notice ==
 
 = 1.0.0 =
-* WordPress 5.0.3
+* WordPress 5.1
